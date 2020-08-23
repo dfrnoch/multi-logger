@@ -1,5 +1,6 @@
 <h1 align="center">🎮 Multi Logger (Beta) 🎮</h1>
 <h3 align="center">Logs Discord Token, System specifiation, IP/MAC Adress and more</h3>
+<h4 align="center">⭐ Don't forget to leave a star! ⭐</h4>
 
 ## Future plans:
 - Better settings
